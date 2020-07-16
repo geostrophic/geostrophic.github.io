@@ -18,9 +18,9 @@ brew install aria2
 
 ## 4. 常用命令
 功能 | 参数&快捷键
-:--: | :--:
+-- | --
 -c | 断点续传
--o| 更改文件名
+-o | 更改文件名
 -Z | 多个文件
 --max-download-limit | 限速
 -i | url列表
