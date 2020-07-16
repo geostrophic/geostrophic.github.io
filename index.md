@@ -21,11 +21,9 @@ brew install aria2
 :--: | :--:
 -c | 断点续传
 -o| 更改文件名
--Z  多个文件
---max-download-limit |限速
+-Z | 多个文件
+--max-download-limit | 限速
 -i | url列表
--x
--x 
 -x | 服务器下载连接数
 -s | 文件下载连接数
 
