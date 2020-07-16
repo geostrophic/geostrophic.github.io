@@ -63,11 +63,8 @@ brew install scrcpy
 启用/禁用 FPS 计数器（stdout） | Control+i
 
 ## 5. 参考
-<div id="refer-anchor-1"></div>
 - [1] [Scrcpy - 开源免费在电脑显示手机画面并控制手机的工具 (投屏/录屏/免Root)](https://www.iplaysoft.com/scrcpy.html) 
-<div id="refer-anchor-2"></div>
 - [2] [scrcpy——Android投屏神器(使用教程)](https://blog.csdn.net/was172/article/details/99705855) 
-<div id="refer-anchor-3"></div>
 - [3] [如何将android手机屏幕投影至Mac](https://www.zhihu.com/question/38722634/answer/1169220702) 
 
 <br/>
