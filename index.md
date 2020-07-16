@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# aria2文件下载教程
+***
+> 一款轻量级、多协议、多源、跨平台的开源下载神器。  
 
-You can use the [editor on GitHub](https://github.com/geostrophic/geostrophic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. 用途
+- 配合*[Tampermonkey](https://www.tampermonkey.net/scripts.php)*+*[网盘直链下载助手](https://www.baiduyun.wiki/zh-cn/assistant.html)*下载百度网盘内文件
+- 代替迅雷
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 2. 安装
+```zsh
+#mbp安装aria2
+brew install aria2
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 3. 使用
+- `aria2c url`下载单个文件
+- `man aria2c`查看帮助
 
-### Jekyll Themes
+## 4. 常用命令
+功能 | 参数&快捷键
+:--: | :--:
+-c | 断点续传
+-o| 更改文件名
+-Z  多个文件
+--max-download-limit |限速
+-i | url列表
+-x
+-x 
+-x | 服务器下载连接数
+-s | 文件下载连接数
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geostrophic/geostrophic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 5. 参考
+- [aria2（命令行下载器）使用](https://www.jianshu.com/p/6e6a02e1f15e)
+- [Aria2 Manual](https://aria2.github.io/manual/en/html/index.html)
 
-### Support or Contact
+<br/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***
+&copy;2020/7/13 Chen Yuxin. All rights reserved
