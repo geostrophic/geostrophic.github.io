@@ -1,3 +1,9 @@
+---
+layout: post
+title: aria2文件下载教程 
+tags: aria2 百度云 迅雷
+categories: productivity
+---
 # aria2文件下载教程
 ***
 > 一款轻量级、多协议、多源、跨平台的开源下载神器。  
