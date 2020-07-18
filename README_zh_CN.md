@@ -1,6 +1,6 @@
 # 博客地址
 
-<https://bit-ranger.github.io/blog/>
+<https://geostrophic.github.io/>
 
 # 必改内容
 
