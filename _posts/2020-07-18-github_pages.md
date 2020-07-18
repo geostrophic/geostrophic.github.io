@@ -5,14 +5,14 @@ tags: github git jekyll
 categories: productivity
 ---
 
-> 轻量级、一站式、便于迁移、免费的中小型博客主页搭建工具
+> 轻量级、一站式、易迁移、免费的中小型博客主页搭建工具
 
-## 1. Github Pages 生成基本页面
+## 1. Github Pages生成基本页面
 
-- [_sign up_](github.com) -- chenbige50884@gmail.com
+- _[sign up](github.com) -- chenbige50884@gmail.com_
 - _new repository_
-- _repository name_ -- geostrophic.github.io
-- _settings&choose a theme_ -- Architect
+- _repository name -- geostrophic.github.io_
+- _settings&choose a theme -- Architect_
 - _commit changes_
 - _edit index.md_
 
@@ -20,7 +20,7 @@ categories: productivity
 
 ## ~~2. 配置自定义域名&HTTPS~~
 
-## 3. Git 管理博客内容
+## 3. Git管理博客内容
 
 ```zsh
 mkdir github
@@ -40,7 +40,7 @@ git config user.name "geostrophic"
 
 ![github_pages_3.png](https://i.loli.net/2020/07/18/pSDcayx53LQZjb4.png)
 
-## 4. Jekyll 生成博客页面
+## 4. Jekyll生成博客页面
 
 ```zsh
 brew install ruby

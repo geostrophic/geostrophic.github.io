@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Start It Undeground
+categories: productivity
 ---
 
 ![index_1.png](https://i.loli.net/2020/07/18/ST1WtfDgViH7Xq4.png)
