@@ -27,11 +27,11 @@ defaults:
 
 
 
-title: "bit-ranger"
-email: sincerebravefight@gmail.com
+title: "geostrophic"
+email: chenbige50884@gmail.com
 description: ""
-github:
-  username: bit-ranger
+github: github.com/geostrophic
+  username: geostrophic
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
@@ -39,7 +39,7 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://bit-ranger.github.io/blog"
+url: "https://geostrophic.github.io"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
