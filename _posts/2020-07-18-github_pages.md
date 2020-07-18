@@ -11,7 +11,7 @@ categories: productivity
 
 > 轻量级、一站式、便于迁移、免费的中小型博客主页搭建工具
 
-## 1. Github Pages 生成基本页面
+## 1. Github Pages生成基本页面
 
 - [_sign up_](github.com) -- chenbige50884@gmail.com
 - _new repository_
