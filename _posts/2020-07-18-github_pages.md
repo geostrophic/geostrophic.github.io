@@ -5,7 +5,7 @@ tags: github git jekyll
 categories: productivity
 ---
 
-# GitHub 博客搭建教程
+# GitHub博客搭建教程
 
 ---
 
@@ -24,7 +24,7 @@ categories: productivity
 
 ## ~~2. 配置自定义域名&HTTPS~~
 
-## 3. Git 管理博客内容
+## 3. Git管理博客内容
 
 ```zsh
 mkdir github
@@ -44,7 +44,7 @@ git config user.name "geostrophic"
 
 ![github_pages_3.png](https://i.loli.net/2020/07/18/pSDcayx53LQZjb4.png)
 
-## 4. Jekyll 生成博客页面
+## 4. Jekyll生成博客页面
 
 ```zsh
 brew install ruby
