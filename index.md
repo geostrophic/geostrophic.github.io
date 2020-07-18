@@ -1,11 +1,7 @@
 ---
 layout: post
 title: Start It Undeground
-tags: geostrophic bilibili
-categories: productivity
 ---
-
-# [Start It Undeground](https://www.bilibili.com/video/BV1AA411v7y5/)
 
 ![index_1.png](https://i.loli.net/2020/07/18/ST1WtfDgViH7Xq4.png)
 ![index_2.png](https://i.loli.net/2020/07/18/GVaPtkvxlXmiwNz.png)
@@ -17,4 +13,4 @@ categories: productivity
 
 ---
 
-&copy;2020/7/17 Chen Yuxin. All rights reserved
+[&copy;2020/7/17 Chen Yuxin. All rights reserved](https://www.bilibili.com/video/BV1AA411v7y5/)

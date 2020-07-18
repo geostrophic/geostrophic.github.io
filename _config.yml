@@ -23,7 +23,8 @@ email: chenbige50884@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The story of an aspiring young man
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geostrophic.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+imgrepo: "https://bit-ranger.github.io/blog/static/img"
 twitter_username: doubleduckshill
 github_username:  geostrophic
 
