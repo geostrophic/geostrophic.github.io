@@ -9,10 +9,10 @@ categories: productivity
 
 ## 1. Github Pages生成基本页面
 
-- _[sign up](github.com)--chenbige50884@gmail.com_
+- _[sign up](github.com)(chenbige50884@gmail.com)_
 - _new repository_
-- _repository name--geostrophic.github.io_
-- _settings&choose a theme--Architect_
+- _repository name(geostrophic.github.io)_
+- _settings&choose a theme(Architect)_
 - _commit changes_
 - _edit index.md_
 
