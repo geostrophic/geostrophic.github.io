@@ -25,11 +25,10 @@ brew install aria2
 ## 4. 常用命令
 
 功能 | 参数&快捷键  
- -- | --
+ :--: | :--:
 c | 断点续传
 o | 更改文件名
 Z | 多个文件
-max-download-limit | 限速
 i | url列表
 x | 服务器下载连接数
 s | 文件下载连接数
@@ -40,7 +39,7 @@ s | 文件下载连接数
 
 <br/>
 
-![ariia2_1.png](https://i.loli.net/2020/07/17/LbEoqyXIT6VNjGu.jpg)
+![aria2_1.png](https://i.loli.net/2020/07/18/OQKZFb9YBAuGmWg.jpg)
 
 ***
 &copy;2020/7/13 Chen Yuxin. All rights reserved
