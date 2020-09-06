@@ -29,7 +29,7 @@ git clone https://github.com/geostrophic/geostrophic.github.io
 cd geostrophic.github.io
 git status
 echo xx > index.md
-git add -all
+git add --all
 git commit -m "Push Again"
 git fetch
 git rb
