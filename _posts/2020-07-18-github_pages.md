@@ -22,7 +22,7 @@ categories: productivity
 
 ## 3. Git管理博客内容
 
-```zsh
+``` bash
 mkdir github
 cd github
 git clone https://github.com/geostrophic/geostrophic.github.io
@@ -36,13 +36,15 @@ git rb
 git push -u origin master
 git config user.email "chenbige50884@gmail.com"
 git config user.name "geostrophic"
+git fetch --all
+git reset --hard origin/master
+git pull
 ```
 
 ![github_pages_3.png](https://i.loli.net/2020/07/18/pSDcayx53LQZjb4.png)
 
 ## 4. Jekyll生成博客页面
-
-```zsh
+``` bash
 brew install ruby
 sudo gem install jekyll bundler
 z ge
@@ -67,7 +69,7 @@ sudo jekyll new . --force
 sudo bundle exec jekyll serve
 #127.0.0.1:4000
 ```
-
+t
 ![github_pages_1.png](https://i.loli.net/2020/07/18/1Ssbpk3jAYlGTnd.png)
 ![github_pages_2.png](https://i.loli.net/2020/07/18/M8hOdycWnfGR21N.png)
 
