@@ -21,7 +21,17 @@ categories: research
 * 记录的远程访问与电子传输
 
 ### 1.2 示例数据库
->
-*美史联盟项目 
+* 美史联盟项目  
+* 成绩考评项目
 
+### 1.3 基本数据库术语
+* 结构术语
+    * DataBase
+    > table,row,column,record
+    * Management System
+    > insert,retrieve,modify,delete
+    * Relational
+
+### 1.4 
+†
 <br/>
