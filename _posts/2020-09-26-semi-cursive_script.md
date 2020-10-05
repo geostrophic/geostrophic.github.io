@@ -6,6 +6,7 @@ categories: productivity
 ---
 
 > 有志不在年高
+
 ## 1. 特点
 * 篆书、隶书过时
 * 草书不易普及
