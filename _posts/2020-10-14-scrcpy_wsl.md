@@ -48,4 +48,7 @@ adb version
 
 
 ## 5 使用
-`scrcpy`
+```
+# 不挂断运行
+nohup scrcpy &
+```

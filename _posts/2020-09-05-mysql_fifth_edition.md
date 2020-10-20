@@ -32,6 +32,4 @@ categories: research
     > insert,retrieve,modify,delete
     * Relational
 
-### 1.4 
-†
-<br/>
+### 1.4  
