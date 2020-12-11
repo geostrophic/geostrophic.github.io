@@ -2,7 +2,7 @@
 layout: post
 title: WSL安装scrcpy
 tags: wsl scrcpy wsl2 adb
-categories: prodouctivity
+categories: productivity
 ---
 
 > 在单位时间比较多，尤其是值班的时候，来回看手机很不方便。之前重装的win10，又装的WSL(Ubuntu)，借此机会在WSL上使用scrcpy，前后两个小半天的时间才弄好，就是传输很慢，与在mbp上使用体验相差太多，也只能用来看个状态什么的。
